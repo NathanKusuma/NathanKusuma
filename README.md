@@ -7,7 +7,6 @@ Software Engineer and Full Stack Developer
 I am passionate about creating innovative web and mobile solutions. I specialize in full-stack development with expertise in ASP.NET CORE and Node JS for backend development, Next.js for web frontend, and React Native for mobile frontend. With a strong command of SQL, I ensure efficient database management to support scalable applications.
 
 * 🌍  I'm based in Kota Malang, Jawa Timur
-* 🖥️  See my portfolio at [My Portofolio Website](http://https://rnk24.netlify.app/)
 * ✉️  You can contact me at [reisyan.nathan.k@gmail.com](mailto:reisyan.nathan.k@gmail.com)
 
 <a href="https://www.github.com/NathanKusuma" target="_blank" rel="noreferrer"><img
