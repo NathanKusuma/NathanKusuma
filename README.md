@@ -22,19 +22,17 @@ For deployment and infrastructure, I typically use **Docker based containerizati
 * ASP.NET Core
 * Node.js (Express)
 * Laravel
-* REST API & Microservices architecture
 
 **AI & Automation**
 
 * LLM integration
-* AI-powered chatbot development using FastAPI
-* Prompt-based workflow automation
+* Prompt based workflow automation
 
 **DevOps & Deployment**
 
 * Docker containerization
 * Kubernetes-based deployments
-* Cloud-based application deployment
+* Cloud based application deployment
 
 ## 🌍 About Me
 
