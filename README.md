@@ -22,6 +22,7 @@ For deployment and infrastructure, I typically use **Docker based containerizati
 * ASP.NET Core
 * Node.js (Express)
 * Laravel
+* Fast API
 
 **AI & Automation**
 
